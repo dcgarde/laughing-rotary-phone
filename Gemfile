@@ -86,4 +86,5 @@ gem "public_activity"
 gem "pg"
 gem "figaro"
 gem "coffee-rails"
+gem "devise"
 
